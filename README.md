@@ -1,7 +1,7 @@
 # chudnovski_algorithm
 Quick implementation of the Chudnovski algorithm in C++.
 
-The implementation depends on the GNU MP library.
+The implementation depends on the GNU MP library in C and C++.
 
 To compile it, run the file compile.sh, it produces the executable `chudnovsky_algorithm.run`.
 
